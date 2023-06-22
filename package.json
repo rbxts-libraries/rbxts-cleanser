@@ -1,0 +1,51 @@
+{
+  "name": "@rbxts/cleanser",
+  "version": "1.0.0-beta",
+  "description": "A port of RobloxianDemo's Cleanser class.",
+  "main": "src/Cleanser/init.luau",
+  "types": "src/Cleanser/index.d.ts",
+  "files": [
+    "src/Cleanser",
+    "Packages"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rbxts-libraries/rbxts-cleanser.git"
+  },
+  "keywords": [
+    "cleaner",
+    "cleanser",
+    "janitor",
+    "cleanup",
+    "garbage collection",
+    "maid",
+    "roblox",
+    "roblox-typescript",
+    "roblox-ts"
+  ],
+  "author": {
+    "name": "RobloxianDemo",
+    "url": "https://github.com/RobloxianDemo"
+  },
+  "contributors": [
+    {
+      "name": "RobloxianDemo",
+      "url": "https://github.com/RobloxianDemo"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rbxts-libraries/rbxts-cleanser/issues"
+  },
+  "homepage": "https://github.com/rbxts-libraries/rbxts-cleanser/README.md",
+  "publishConfig": {
+    "access": "public"
+  },
+  "devDependencies": {
+    "@rbxts/compiler-types": "^2.1.0-types.1",
+    "@rbxts/types": "^1.0.688"
+  }
+}

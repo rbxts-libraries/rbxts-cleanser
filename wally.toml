@@ -1,0 +1,9 @@
+[package]
+name = "rbxts-libraries/rbxts-cleanser"
+version = "0.1.0"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+private = true
+
+[dependencies]
+Cleanser = "robloxiandemo/cleanser@0.1.8"

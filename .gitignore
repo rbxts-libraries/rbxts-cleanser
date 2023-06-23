@@ -53,7 +53,4 @@ luac.out
 /node_modules
 /out
 /include
-/devserverpackages
-/packages
-/serverpackages
 *.tsbuildinfo

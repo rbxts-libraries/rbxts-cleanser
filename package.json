@@ -1,5 +1,5 @@
 {
-  "name": "@rbxts/cleanser",
+  "name": "@rbxts-libraries/cleanser",
   "version": "1.0.0",
   "description": "A port of RobloxianDemo's Cleanser class.",
   "main": "src/Cleanser/init.luau",

@@ -4,19 +4,19 @@ Cleanser is a highly personalized, all-in-one, and lightweight implementation se
 
 ## Installation
 
-📦 — NPM:
+### 📦 — NPM:
 
 ```
 npm i @rbxts/cleanser
 ```
 
-🧶 — Yarn:
+### 🧶 — Yarn:
 
 ```
 yarn add @rbxts/cleanser
 ```
 
-📀 — pnPM:
+### 📀 — pnPM:
 
 ```
 pnpm add @rbxts/cleanser

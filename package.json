@@ -1,6 +1,6 @@
 {
   "name": "@rbxts/cleanser",
-  "version": "1.0.1",
+  "version": "1.2.0",
   "description": "A port of RobloxianDemo's Cleanser class.",
   "main": "src/Cleanser/init.luau",
   "types": "src/Cleanser/index.d.ts",

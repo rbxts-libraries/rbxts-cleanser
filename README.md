@@ -2,6 +2,26 @@
 
 Cleanser is a highly personalized, all-in-one, and lightweight implementation served for garbage collection.
 
+## Installation
+
+📦 — NPM:
+
+```
+npm i @rbxts/cleanser
+```
+
+🧶 — Yarn:
+
+```
+yarn add @rbxts/cleanser
+```
+
+📀 — pnPM:
+
+```
+pnpm add @rbxts/cleanser
+```
+
 ## Cleanser API
 
 ### Types

@@ -1,6 +1,6 @@
 # Cleanser
 
-Cleanser is an all-in-one lightweight implementation for garbage collection.
+Cleanser is a highly personalized, all-in-one, and lightweight implementation served for garbage collection.
 
 ## Cleanser API
 

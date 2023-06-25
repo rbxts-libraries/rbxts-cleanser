@@ -28,21 +28,21 @@ pnpm add @rbxts/cleanser
 
 ```ts
 interface Destroyable {
-  TimedDestroy(waitTime: number): boolean;
-  Cleanse(): void;
-  Destroy(): void;
+	TimedDestroy(waitTime: number): boolean;
+	Cleanse(): void;
+	Destroy(): void;
 }
 
 type Object =
-  | never
-  | undefined
-  | ((this: defined) => void)
-  | ((_: defined) => void)
-  | ExtractKeys<defined, () => void>
-  | thread
-  | RBXScriptConnection
-  | Cleanser
-  | Cleanser.Destroyable;
+	| never
+	| undefined
+	| ((this: defined) => void)
+	| ((_: defined) => void)
+	| ExtractKeys<defined, () => void>
+	| thread
+	| RBXScriptConnection
+	| Cleanser
+	| Cleanser.Destroyable;
 ```
 
 ### Constructor

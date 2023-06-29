@@ -48,7 +48,7 @@ type Object =
 ### Constructor
 
 ```ts
-const cleanser = new Cleanser<{ never[]: T }>();
+const cleanser = new Cleanser.Cleanser<{ Instances: Array<Instance> }>();
 ```
 
 ### `Cleanser.Is`
